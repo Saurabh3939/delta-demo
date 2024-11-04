@@ -1,2 +1,2 @@
-# delta-demo
-this a demo for git and github class
+# new project 
+this project is created on local system
